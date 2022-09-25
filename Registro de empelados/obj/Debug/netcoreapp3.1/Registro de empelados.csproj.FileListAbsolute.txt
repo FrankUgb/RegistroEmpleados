@@ -1,0 +1,16 @@
+C:\Users\rftan\source\repos\Registro de empelados\bin\Debug\netcoreapp3.1\Registro de empelados.exe
+C:\Users\rftan\source\repos\Registro de empelados\bin\Debug\netcoreapp3.1\Registro de empelados.deps.json
+C:\Users\rftan\source\repos\Registro de empelados\bin\Debug\netcoreapp3.1\Registro de empelados.runtimeconfig.json
+C:\Users\rftan\source\repos\Registro de empelados\bin\Debug\netcoreapp3.1\Registro de empelados.runtimeconfig.dev.json
+C:\Users\rftan\source\repos\Registro de empelados\bin\Debug\netcoreapp3.1\Registro de empelados.dll
+C:\Users\rftan\source\repos\Registro de empelados\bin\Debug\netcoreapp3.1\Registro de empelados.pdb
+C:\Users\rftan\source\repos\Registro de empelados\obj\Debug\netcoreapp3.1\Registro de empelados.csproj.AssemblyReference.cache
+C:\Users\rftan\source\repos\Registro de empelados\obj\Debug\netcoreapp3.1\Registro_de_empelados.Form1.resources
+C:\Users\rftan\source\repos\Registro de empelados\obj\Debug\netcoreapp3.1\Registro de empelados.csproj.GenerateResource.cache
+C:\Users\rftan\source\repos\Registro de empelados\obj\Debug\netcoreapp3.1\Registro de empelados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rftan\source\repos\Registro de empelados\obj\Debug\netcoreapp3.1\Registro de empelados.AssemblyInfoInputs.cache
+C:\Users\rftan\source\repos\Registro de empelados\obj\Debug\netcoreapp3.1\Registro de empelados.AssemblyInfo.cs
+C:\Users\rftan\source\repos\Registro de empelados\obj\Debug\netcoreapp3.1\Registro de empelados.csproj.CoreCompileInputs.cache
+C:\Users\rftan\source\repos\Registro de empelados\obj\Debug\netcoreapp3.1\Registro de empelados.dll
+C:\Users\rftan\source\repos\Registro de empelados\obj\Debug\netcoreapp3.1\Registro de empelados.pdb
+C:\Users\rftan\source\repos\Registro de empelados\obj\Debug\netcoreapp3.1\Registro de empelados.genruntimeconfig.cache
